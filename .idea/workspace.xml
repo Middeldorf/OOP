@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cbb8dd0-f5c5-433d-a8f8-fa57202f4a4d" name="Default Changelist" comment="my first code!">
-      <change afterPath="$PROJECT_DIR$/.idea/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/Week2/divisors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/Week2/loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/helloWorld.py" beforeDir="false" />
+    <list default="true" id="0cbb8dd0-f5c5-433d-a8f8-fa57202f4a4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Week2/divisors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2/divisors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Week2/loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2/loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,8 +120,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="my first code!" />
     <MESSAGE value="Teste code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste code" />
+    <MESSAGE value="my first code!" />
+    <option name="LAST_COMMIT_MESSAGE" value="my first code!" />
   </component>
 </project>
